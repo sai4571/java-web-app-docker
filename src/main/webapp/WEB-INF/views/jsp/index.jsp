@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hi Everyone, Welcome To Capgemini Family</h2>
+			<h2>Hi Everyone, Welcome To Capgemini Family, Get the future You Want</h2>
 			<h3>Capgemini Hyderabad</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; 2022 Capgemini. All rights reserved</p>
 	</footer>
 </div>
 
