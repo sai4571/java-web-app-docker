@@ -1,4 +1,4 @@
-apiVersion: v1
+/*apiVersion: v1
 kind: Service
 metadata:
   name: javawebapp-svc-
@@ -15,4 +15,4 @@ spec:
       protocol: "TCP"
   selector:
     app: javawebapp
-    version: "BUILD_NUMBER"
+    version: "BUILD_NUMBER"*/
